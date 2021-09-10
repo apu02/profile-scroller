@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ali",
+    "age": 24,
+    "location": "Khilkhat, Dhaka",
+    "img": "img/male-1.jpg"
+  },
+  {
+    "name": "Ahmed",
+    "age": 25,
+    "location": "Gulistan, Dhaka",
+    "img": "img/male-2.jpg"
+  },
+  {
+    "name": "Khalid",
+    "age": 23,
+    "location": "Dhanmondi, Dhaka",
+    "img": "img/male-3.jpg"
+  },
+  {
+    "name": "Walid",
+    "age": 26,
+    "location": "Banani, Dhaka",
+    "img": "img/male-4.jpg"
+  },
+  {
+    "name": "Mohsin",
+    "age": "24",
+    "location": "Mohammadpur, Dhaka",
+    "img": "img/male-5.jpg"
+  }
+]
